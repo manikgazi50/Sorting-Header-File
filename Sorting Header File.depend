@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1689496420 source:c:\users\hp\desktop\manik\sorting header file\main.cpp
+	<iostream>
+	"sorting.h"
+
+1689478863 c:\users\hp\desktop\manik\sorting header file\sorting.h
+	<iostream>
+	<stdio.h>
+
